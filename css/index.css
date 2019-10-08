@@ -6,3 +6,10 @@
     line-height: 100px;
     text-align: center;
 }
+.img{
+    height: 300px;
+    overflow: hidden;
+}
+img{
+    height: 300px;
+}
