@@ -1,0 +1,8 @@
+.tou{
+    height: 100px;
+    background: linear-gradient(to right,red,orange,yellow,green,cyan,blue,violet);
+    color: white;
+    font-size: 20px;
+    line-height: 100px;
+    text-align: center;
+}
